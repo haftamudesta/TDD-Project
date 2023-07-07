@@ -1,6 +1,7 @@
+require "./solver"
 RSpec.describe Solver do
         describe "#factorial" do
-            fact=Reverse.new()
+            fact=Solver.new()
             it "should return factorial of a given number from 1-N" do
             num=5
             expect(fact.factorial(num)).to eql(120)
@@ -16,12 +17,12 @@ RSpec.describe Solver do
     describe '#revese_string' do
         it "returns the reversed string" do
             message="hello"
-            reversed=Reverse.new()
-            expect(reversed.revers_string(message)).to eq("olleh")
+            reversed=Solver.new()
+            expect(reversed.reverse(message)).to eq("olleh")
         end
     end
     describe '#fizzbuzz' do
-        fizzbuzzs=Reverse.new()
+        fizzbuzzs=Solver.new()
         it 'When N is divisible by 3 and 5, return fizzbuzz' do
             expect(fizzbuzzs.fizzbuzz(15)).to eql('fizzbuzz')
           end
