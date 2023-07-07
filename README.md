@@ -27,7 +27,7 @@
 
 # 📖 Test-driven development (TDD) <a name="about-project"></a>
 
-**Test-driven development (TDD)** is an app that will have the option to record what books are in the library and who borrows them
+**Test-driven development (TDD)** is a software development practice that focuses on creating unit test cases before developing the actual code. It is an iterative approach combining programming, unit test creation, and refactoring.In this projec we follow test driven development to test factorail, reversing string and fizzbuzz.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,7 +41,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Has 3 ruby files that interact with each other**
+- **Test factorial, reversing string,and fizzbuzz**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,11 +93,9 @@ Navigate to the repository and run `ruby main.rb`
 
 👤 **Cristian Zambrano**
 
-
 - GitHub: [@zamcham](https://github.com/zamcham)
 - Twitter: [@ZamChamGames](https://twitter.com/zamchamgames)
 - LinkedIn: [Cristian Zambrano](https://www.linkedin.com/in/cristian-zamcham/)
-
 
 👤 **Haftamu Desta**
 
@@ -105,17 +103,16 @@ Navigate to the repository and run `ruby main.rb`
 - Twitter: [@DestaHftamu](https://twitter.com/DestaHftamu)
 - LinkedIn: [Haftamu Desta](https://linkedin.com/in/haftamu-desta)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> The following are the future features that will be added to the project.
+> The following are features of project.
 
-- [ ] **It will preserve data in the future**
-- [ ] **I will add unit test**
+- [ ] **unit test**
+- [ ] **mock test**
 - [ ] **It will probably not take over the world**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
