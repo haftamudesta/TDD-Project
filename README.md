@@ -73,7 +73,7 @@ For MacOS run the following commands
   ruby -v
 ```
 
-This example shows how to install Ruby 3.0.1 which was the latest version in April 2021, but you can check to see if there is a newer version [here](https://www.ruby-lang.org/en/downloads/releases/). Iy is also assumed that you have [homebrew](https://brew.sh/) already installed on your Mac.
+In this example shows how to install Ruby 3.0.1 which was the latest version in April 2021, but you can check to see if there is a newer version [here](https://www.ruby-lang.org/en/downloads/releases/). Iy is also assumed that you have [homebrew](https://brew.sh/) already installed on your Mac.
 
 ### Usage
 
@@ -93,15 +93,18 @@ Navigate to the repository and run `ruby main.rb`
 
 👤 **Cristian Zambrano**
 
+
 - GitHub: [@zamcham](https://github.com/zamcham)
 - Twitter: [@ZamChamGames](https://twitter.com/zamchamgames)
 - LinkedIn: [Cristian Zambrano](https://www.linkedin.com/in/cristian-zamcham/)
+
 
 👤 **Haftamu Desta**
 
 - GitHub: [@haftamudesta](https://github.com/haftamudesta)
 - Twitter: [@DestaHftamu](https://twitter.com/DestaHftamu)
 - LinkedIn: [Haftamu Desta](https://linkedin.com/in/haftamu-desta)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
